@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/search_by_star"
+        android:title="sort by stars"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/search_by_updated"
+        android:title="sort by updated"
+        app:showAsAction="never" />
+<!--    <item-->
+<!--        android:id="@+id/search_java"-->
+<!--        android:title="Java"-->
+<!--        app:showAsAction="never" />-->
+<!--    <item-->
+<!--        android:id="@+id/search_py"-->
+<!--        android:title="Python"-->
+<!--        app:showAsAction="never" />-->
+<!--    <item-->
+<!--        android:id="@+id/search_c"-->
+<!--        android:title="C"-->
+<!--        app:showAsAction="never" />-->
+<!--    <item-->
+<!--        android:id="@+id/search_c_plus"-->
+<!--        android:title="C++"-->
+<!--        app:showAsAction="never" />-->
+</menu>
